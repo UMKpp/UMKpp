@@ -6,6 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UMKpp&show_icons=true&theme=radical" width="48%">
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UMKpp&theme=radical" width="48%">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=radical" width="50%">
@@ -26,6 +27,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer">
   <h4>⭐ Star my repositories if you like my work! ⭐</h4>
 </div>
