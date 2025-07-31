@@ -14,7 +14,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=UMKpp&show_icons=true&theme=default&hide_border=true" height="150" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UMKpp&theme=default&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=UMKpp&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=default&hide_border=true" height="150" />
 
