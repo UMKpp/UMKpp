@@ -46,24 +46,8 @@ const upuli = {
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=radical" width="50%">
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UMKpp&theme=radical" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UMKpp&theme=gruvbox" width="90%">
 </div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UMKpp&theme=radical&no-frame=true&row=1&column=6" width="80%">
-</div>
-
----
-
-## 🌱 2024 Goals
-
-- Master Next.js 14 & TypeScript  
-- Explore AI/ML Web Integration  
-- Contribute to Open Source & Write Tech Blogs
 
 ---
 
