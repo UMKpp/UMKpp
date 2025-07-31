@@ -15,19 +15,6 @@
 
 ---
 
-## 👩‍💻 About Me
-
-js
-const upuli = {
-  location: "Sri Lanka 🇱🇰",
-  role: "Full Stack Developer",
-  skills: ["JavaScript", "Python", "Java"],
-  focus: ["Next.js", "TypeScript", "AI Integration"],
-  motto: "Code with purpose, design with empathy"
-};
-
-
----
 
 ## 🔧 Tech Stack
 
