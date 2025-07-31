@@ -5,8 +5,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UMKpp&show_icons=true&theme=radical" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=radical" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=UMKpp&show_icons=true&theme=radical" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=radical" width="40%">
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UMKpp&theme=radical" width="50%">
   <br><br>
