@@ -6,7 +6,7 @@
 <div align="center">
   <!-- 🔥 Streak Counter -->
   <h3>🔥 GitHub Contribution Streak</h3>
-  <img src="https://streak-stats.demolab.com?user=UMKpp&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=UMKpp&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 
   <!-- 📊 Top Languages -->
   <h3>📊 Top Languages</h3>
