@@ -1,4 +1,4 @@
-<h3 align="left">Hello...I am Upuli Maheshika</h3>
+<h2 align="center">Hello...I am Upuli Maheshika</h2>
 
 <div align="center">
 
