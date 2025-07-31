@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Upuli Maheshika 👋</h1>
 
 <p align="center">
-  Full Stack Developer | Problem Solver | UI/UX Enthusiast  
+  Web Designer| Problem Solver 
   <br>
   Passionate about clean code and lifelong learning.
 </p>
@@ -14,7 +14,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=UMKpp&show_icons=true&theme=default&hide_border=true" height="150" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UMKpp&theme=default&hide_border=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UMKpp&theme=default&hide_border=false" height="150" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=default&hide_border=true" height="150" />
 
