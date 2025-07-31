@@ -1,29 +1,6 @@
+<h3 align="left">Hello...I am Upuli Maheshika</h3>
+
 <div align="center">
-
-<!-- Header -->
-<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Upuli%20Maheshika&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Digital+Solutions+Builder" alt="Typing SVG" />
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UMKpp&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/UMKpp?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/UMKpp?style=for-the-badge&color=yellow" />
-</p>
-
----
-
-
-## 🔧 Tech Stack
-
-*Frontend:* React, Next.js, TypeScript, Tailwind CSS  
-*Backend:* Node.js, Express.js, Java, Python  
-*Database:* MongoDB, MySQL, Firebase  
-*Tools:* VS Code, Git, GitHub, Figma, Illustrator
-
----
 
 ## 📊 GitHub Stats
 
@@ -45,13 +22,6 @@
   <a href="https://www.instagram.com/___upu____/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
   <a href="https://discord.com/users/1208788082342764634"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"></a>
 </p>
-
----
-
-<div align="center">
-  <h3>"Code is like poetry — beautiful, meaningful, and inspiring."</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
 
 ---
 
