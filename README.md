@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Upuli Maheshika 👋</h1>
 
 <p align="center">
-  Web Designer| Problem Solver 
+  Web Designer | Problem Solver 
   <br>
   Passionate about clean code and lifelong learning.
 </p>
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.vercel.app?user=UMKpp&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.vercel.app?user=UMKpp&theme=github-dark&hide_border=false" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=default&hide_border=true" height="150" />
 
