@@ -4,14 +4,19 @@
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <!-- 🔥 Streak Counter -->
-  <h3>🔥 GitHub Contribution Streak</h3>
-  <img src="https://streak-stats.demolab.com?user=UMKpp&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-
   <!-- 📊 Top Languages -->
   <h3>📊 Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UMKpp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
+
+<!-- 🔥 GitHub Contribution Streak Section -->
+<div align="center">
+  <h3>🔥 GitHub Contribution Streak</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UMKpp&theme=dracula&hide_border=false&border_radius=5" alt="Upuli's GitHub Streak" height="200" />
+  </a>
+</div>
+
 
 ###
 
