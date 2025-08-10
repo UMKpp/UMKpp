@@ -8,8 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=radical" width="40%">
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UMKpp&theme=radical" width="50%">
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UMKpp&theme=gruvbox" width="90%">
 </div>
 
 ---
