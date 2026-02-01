@@ -5,7 +5,7 @@
 ## My GitHub Stats
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=radical&hide_border=true" width="400" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=radical&langs_count=6&hide_border=true" width="350" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UMKpp&theme=radical" width="50%">
 </div>
