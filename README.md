@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hello... I am Upuli Maheshika</h1>
 
 ## My GitHub Stats
@@ -48,4 +47,3 @@
 ---
 
 <h4 align="center">Star my repositories if you like my work!</h4>
-```
