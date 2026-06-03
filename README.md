@@ -7,7 +7,7 @@
 - Passionate about Full Stack Development & UI/UX Design  
 - Currently working on web development projects  
 - Always learning new technologies and improving skills  
-- My main Goal is to become a professional Software Engineer in a leading tech company  
+- My main Goal is to become a professional Software Engineer in a leading tech company
 
 ## Tech Stack
 
@@ -54,8 +54,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
 
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+  <a href="https://my-portfolio-6njozh6ro-umkpps-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white">
   </a>
 </p>
 
