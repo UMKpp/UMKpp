@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://my-portfolio-6njozh6ro-umkpps-projects.vercel.app/">
+  <a href="https://my-portfolio-one-mu-45.vercel.app/?name=Upuli+Maheshika&mobile=0724969007&message=hello%21">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white">
   </a>
 </p>
