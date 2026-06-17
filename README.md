@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  "Code. Learn. Improve. Repeat."
+  BUILD.LEARN.GROW.REPEAT
 </p>
 
 <p align="center">
