@@ -1,15 +1,16 @@
-# Hello, I'm Upuli Maheshika 
-### Undergrad | BEng (Hons) in Software Engineering | Full Stack Developer Enthusiast
+# Hello, I'm Upuli Maheshika
+
+### Undergraduate Student | BEng (Hons) in Software Engineering | Aspiring Full Stack Developer
 
 ## About Me
 
-- Undergraduate student at IIT.  
-- Passionate about Full Stack Development & UI/UX Design  
-- Currently working on web development projects  
-- Always learning new technologies and improving skills  
-- My main Goal is to become a professional Software Engineer in a leading tech company
+- Undergraduate student at IIT pursuing a degree in Software Engineering.
+- Passionate about Full Stack Development and UI/UX Design.
+- Currently building web development projects and exploring new technologies.
+- Continuously learning and improving my technical skills.
+- My goal is to become a professional Software Engineer in a leading technology company.
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -22,7 +23,7 @@
 
 <img src="https://streak-stats.demolab.com?user=UMKpp&theme=tokyonight&hide_border=true" />
 
-<div align="center">
+</div>
 
 ## Tech Stack
 
@@ -57,11 +58,11 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
 
-<!-- APIs & Cloud -->
+<!-- APIs -->
 <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=api&logoColor=white">
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
 
-<!-- Other -->
+<!-- Concepts -->
 <img src="https://img.shields.io/badge/OOP-00599C?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white">
 
@@ -70,23 +71,21 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/upuli-kuruppu-15a50732a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
 
-  <a href="https://www.instagram.com/___upu____/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/upuli-kuruppu-15a50732a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
-  <a href="https://umk-port.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white">
-  </a>
+<a href="https://www.instagram.com/___upu____/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://umk-port.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white">
+</a>
+
 </p>
 
 <p align="center">
-  BUILD.LEARN.GROW.REPEAT
-</p>
-
-<p align="center">
-  Star my repositories if you like my work!
+BUILD. LEARN. GROW. REPEAT.
 </p>
