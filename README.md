@@ -9,6 +9,21 @@
 - Always learning new technologies and improving skills  
 - My main Goal is to become a professional Software Engineer in a leading tech company
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UMKpp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=UMKpp&theme=tokyonight&hide_border=true" />
+
+<div align="center">
+
 ## Tech Stack
 
 <p align="center">
