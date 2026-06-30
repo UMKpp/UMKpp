@@ -14,9 +14,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMKpp&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=UMKpp&theme=tokyonight&hide_border=true" />
